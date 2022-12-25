@@ -12,9 +12,9 @@
 >Tools, languages, and other things that I like to work with.
 
 
-| <img src="./img/java(1).svg" width="60"/> <br /> Java | <img src="./img/spring.svg" width="60"/> <br /> SpringBoot | <img src="./img/js.svg" width="60"/> <br /> JS  | <img src="./img/typescript.svg" width="60"/> <br /> TS  | <img src="./img/git.svg" width="60"/> <br /> Git |
+| <img src="./img/java(1).svg" width="60"/> <br /> Java | <img src="./img/spring.svg" width="60"/> <br /> SpringBoot | <img src="./img/js.svg" width="60"/> <br /> JS  | <img src="./img/typescript.svg" width="60"/> <br /> TS  | <img src="./img/git.svg" width="60"/> <br /> Git | 
 |---|---|---|---|---|
-| <img src="./img/angular.svg" width="60"/> <br /> Angular  | <img src="./img/postgresql.svg" width="60"/> <br /> PostgreSQL  | <img src="./img/mysql.svg" width="60"/> <br /> MySQL  | <img src="./img/mongo.svg" width="60"/> <br /> MongoDB  |
+| <img src="./img/angular.svg" width="60"/> <br /> Angular  | <img src="./img/postgresql.svg" width="60"/> <br /> PostgreSQL  | <img src="./img/mysql.svg" width="60"/> <br /> MySQL  | <img src="./img/mongo.svg" width="60"/> <br /> MongoDB  | <img src="./img/docker.svg" width="60"/> <br /> Docker
 
 ### My Goals
 
